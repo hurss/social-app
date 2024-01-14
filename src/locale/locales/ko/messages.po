@@ -138,7 +138,7 @@ msgstr "<1>Bluesky</1><0>에 오신 것을 환영합니다</0>"
 
 #: src/view/com/profile/ProfileHeader.tsx:597
 msgid "⚠Invalid Handle"
-msgstr ""
+msgstr "⚠잘못된 핸들입니다."
 
 #: src/view/com/util/moderation/LabelInfo.tsx:45
 msgid "A content warning has been applied to this {0}."
@@ -354,7 +354,7 @@ msgstr "앱 비밀번호 이름은 4자 이상이어야 합니다."
 
 #: src/view/screens/Settings.tsx:641
 msgid "App password settings"
-msgstr ""
+msgstr "앱 비밀번호 설정"
 
 #: src/view/screens/Settings.tsx:650
 msgid "App passwords"
@@ -689,7 +689,7 @@ msgstr "\"모두\" 또는 \"없음\"을 선택하세요."
 
 #: src/view/screens/Settings.tsx:663
 msgid "Choose a new Bluesky username or create"
-msgstr ""
+msgstr "새 Bluesky 사용자명 선택 또는 생성"
 
 #: src/view/com/modals/ServerInput.tsx:38
 msgid "Choose Service"
@@ -757,11 +757,11 @@ msgstr "탐색 푸터 닫기"
 
 #: src/view/shell/index.web.tsx:50
 msgid "Closes bottom navigation bar"
-msgstr ""
+msgstr "하단 탐색바 닫기"
 
 #: src/view/com/auth/login/PasswordUpdatedForm.tsx:39
 msgid "Closes password update alert"
-msgstr ""
+msgstr "패스워드 변경 알림 닫기"
 
 #: src/view/com/composer/Composer.tsx:302
 msgid "Closes post composer and discards post draft"
@@ -769,7 +769,7 @@ msgstr ""
 
 #: src/view/com/lightbox/ImageViewing/components/ImageDefaultHeader.tsx:27
 msgid "Closes viewer for header image"
-msgstr ""
+msgstr "헤더 이미지 뷰어 닫기"
 
 #: src/view/com/notifications/FeedItem.tsx:321
 msgid "Collapses list of users for a given notification"
@@ -782,7 +782,7 @@ msgstr "커뮤니티 가이드라인"
 
 #: src/view/com/composer/Composer.tsx:417
 msgid "Compose posts up to {MAX_GRAPHEME_LENGTH} characters in length"
-msgstr ""
+msgstr "{MAX_GRAPHEME_LENGTH}글자 이내로 게시물 작성하기"
 
 #: src/view/com/composer/Prompt.tsx:24
 msgid "Compose reply"
@@ -818,7 +818,7 @@ msgstr "계정 삭제 확인"
 
 #: src/view/com/modals/ContentFilteringSettings.tsx:151
 msgid "Confirm your age to enable adult content."
-msgstr ""
+msgstr "성인 콘텐츠를 사용하기 위한 연령 확인"
 
 #: src/view/com/modals/ChangeEmail.tsx:157
 #: src/view/com/modals/DeleteAccount.tsx:178
@@ -887,7 +887,7 @@ msgstr "클립보드에 복사됨"
 
 #: src/view/com/modals/AddAppPasswords.tsx:191
 msgid "Copies app password"
-msgstr ""
+msgstr "앱 비밀번호 복사"
 
 #: src/view/com/modals/AddAppPasswords.tsx:190
 msgid "Copy"
@@ -938,7 +938,7 @@ msgstr "새 계정 만들기"
 
 #: src/view/screens/Settings.tsx:384
 msgid "Create a new Bluesky account"
-msgstr ""
+msgstr "새 Bluesky 계정 만들기"
 
 #: src/view/com/auth/create/CreateAccount.tsx:121
 msgid "Create Account"
@@ -988,11 +988,11 @@ msgstr "어두움"
 
 #: src/view/screens/Debug.tsx:63
 msgid "Dark mode"
-msgstr ""
+msgstr "다크 모드"
 
 #: src/Navigation.tsx:204
 msgid "Debug"
-msgstr ""
+msgstr "디버그"
 
 #: src/view/screens/Debug.tsx:83
 msgid "Debug panel"
@@ -1038,7 +1038,7 @@ msgstr "이 게시물을 삭제하시겠습니까?"
 
 #: src/view/com/util/post-embeds/QuoteEmbed.tsx:66
 msgid "Deleted"
-msgstr ""
+msgstr "삭제됨"
 
 #: src/view/com/post-thread/PostThread.tsx:246
 msgid "Deleted post."
@@ -1143,7 +1143,7 @@ msgstr "완료{extraText}"
 
 #: src/view/com/auth/login/ChooseAccountForm.tsx:45
 msgid "Double tap to sign in"
-msgstr ""
+msgstr "두 번 탭하여 로그인"
 
 #: src/view/com/auth/create/Step3.tsx:33
 #: src/view/com/modals/ChangeHandle.tsx:257
@@ -1206,7 +1206,7 @@ msgstr "리스트 세부 정보 편집"
 
 #: src/view/com/modals/CreateOrEditList.tsx:193
 msgid "Edit Moderation List"
-msgstr ""
+msgstr "중재 리스트 편집"
 
 #: src/Navigation.tsx:244
 #: src/view/screens/Feeds.tsx:371
@@ -1232,7 +1232,7 @@ msgstr "저장된 피드 편집"
 
 #: src/view/com/modals/CreateOrEditList.tsx:188
 msgid "Edit User List"
-msgstr ""
+msgstr "사용자 리스트 편집"
 
 #: src/view/com/modals/EditProfile.tsx:193
 msgid "Edit your display name"
@@ -1240,7 +1240,7 @@ msgstr ""
 
 #: src/view/com/modals/EditProfile.tsx:211
 msgid "Edit your profile description"
-msgstr ""
+msgstr "프로필 상세 내용 편집"
 
 #: src/view/com/auth/create/Step2.tsx:108
 #: src/view/com/auth/login/ForgotPasswordForm.tsx:152
@@ -1322,7 +1322,7 @@ msgstr "계정을 만들 때 사용한 이메일을 입력합니다. 새 비밀�
 #: src/view/com/auth/create/Step2.tsx:157
 #: src/view/com/modals/BirthDateSettings.tsx:74
 msgid "Enter your birth date"
-msgstr ""
+msgstr "생일을 입력하세요"
 
 #: src/view/com/modals/Waitlist.tsx:78
 msgid "Enter your email"
@@ -1334,7 +1334,7 @@ msgstr "이메일 주소를 입력하세요"
 
 #: src/view/com/modals/ChangeEmail.tsx:41
 msgid "Enter your new email above"
-msgstr ""
+msgstr "상단에 나타난 이메일을 입력하세요"
 
 #: src/view/com/modals/ChangeEmail.tsx:117
 msgid "Enter your new email address below."
@@ -1502,12 +1502,12 @@ msgstr "토론 스레드를 미세 조정합니다."
 
 #: src/view/com/modals/EditImage.tsx:115
 msgid "Flip horizontal"
-msgstr ""
+msgstr "가로 뒤집기"
 
 #: src/view/com/modals/EditImage.tsx:120
 #: src/view/com/modals/EditImage.tsx:287
 msgid "Flip vertically"
-msgstr ""
+msgstr "세로 뒤집기"
 
 #: src/view/com/profile/FollowButton.tsx:64
 msgctxt "action"
@@ -1754,7 +1754,7 @@ msgstr "호스팅 제공자 주소"
 
 #: src/view/com/modals/InAppBrowserConsent.tsx:44
 msgid "How should we open this link?"
-msgstr ""
+msgstr "이 링크는 어떻게 엽니까?"
 
 #: src/view/com/modals/VerifyEmail.tsx:214
 msgid "I have a code"
